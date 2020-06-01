@@ -1,12 +1,12 @@
-============================= test session starts ==============================
-platform linux -- Python 3.6.9, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/thiagocedran/codenation/python-8/venv/bin/python
+============================= test session starts =============================
+platform win32 -- Python 3.8.3, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- C:\Users\Alexa\AppData\Local\Programs\Python\Python38\python.exe
 cachedir: .pytest_cache
-rootdir: /home/thiagocedran/codenation/python-8, inifile:
+rootdir: C:\Users\Alexa\codenation\python-8, inifile:
 collecting ... collected 3 items
 
 test_submit.py::TestChallenge4::test_verify_signature PASSED             [ 33%]
 test_submit.py::TestChallenge4::test_verify_signature_fail PASSED        [ 66%]
 test_submit.py::TestChallenge4::test_create_token PASSED                 [100%]
 
----- generated xml file: /home/thiagocedran/codenation/python-8/output.xml -----
-=========================== 3 passed in 0.03 seconds ===========================
+------ generated xml file: C:\Users\Alexa\codenation\python-8\output.xml ------
+========================== 3 passed in 0.56 seconds ===========================
